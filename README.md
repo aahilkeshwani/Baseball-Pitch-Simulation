@@ -26,3 +26,5 @@ As a frame of reference for each pitch, the user should also simulate the pitch 
 ```
 hold on; plotStrikeZone; hold off;
 ```
+
+Hopuefully you are able to make use of this model to simulate pitches from your favorite MLB pitchers and conduct your own analysis. Find input values online from baseball savant. The only value you won't be able to find is spin angle. The key is to try and recreate the movement of their pitches by tweaking spin angle. It won't be perfect since spin rate is not affected by drag, but you should be able to get close. 
